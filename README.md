@@ -1,5 +1,5 @@
 # Melanoma Detection Assignment
-> Cancer encompasses over 200 different types, with melanoma being the deadliest form of skin cancer. The diagnostic process for melanoma typically begins with clinical screening, followed by dermoscopic analysis and histopathological examination. Early detection is crucial, as melanoma is highly curable in its initial stages.
+Cancer encompasses over 200 different types, with melanoma being the deadliest form of skin cancer. The diagnostic process for melanoma typically begins with clinical screening, followed by dermoscopic analysis and histopathological examination. Early detection is crucial, as melanoma is highly curable in its initial stages.
 
 The first step in diagnosing melanoma involves a visual examination of the affected skin area. Dermatologists capture dermatoscopic images of skin lesions using high-speed cameras, achieving an accuracy of 65–80% without additional technical assistance. When these dermatoscopic images are further analyzed by cancer specialists, the diagnostic accuracy increases to 75–84%.
 
@@ -49,9 +49,6 @@ As the model's accuracy improves, its loss decreases. The final model achieves 8
 Melanoma Skin Cancer from https://www.cancer.org/cancer/melanoma-skin-cancer/about/what-is-melanoma.html
 
 Introduction to CNN from https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/
-
-Image classification using CNN from https://www.analyticsvidhya.com/blog/2020/02/learn-image-classification-cnn-convolutional-neural-networks-3-datasets/
-
 
 ## Contact
 Created by [@rupali1013] - feel free to contact me!
